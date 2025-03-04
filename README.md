@@ -16,4 +16,4 @@ Feel free to fork this repository and contribute by submitting pull requests. If
 
 ## License
 
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+This repository is Unlicensed use it as you will. See the [LICENSE](LICENSE) file for more information.
